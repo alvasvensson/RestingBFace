@@ -1,0 +1,17 @@
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.exe
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.deps.json
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.runtimeconfig.json
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.dll
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.pdb
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\bin\Debug\net7.0\RestSharp.dll
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.csproj.AssemblyReference.cache
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.AssemblyInfoInputs.cache
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.AssemblyInfo.cs
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.csproj.CoreCompileInputs.cache
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.csproj.CopyComplete
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.dll
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\refint\RestingBFace.dll
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.pdb
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.genruntimeconfig.cache
+c:\Users\alva.svensson3\Documents\prog2\RestingBFace\RestingBFace\obj\Debug\net7.0\ref\RestingBFace.dll
